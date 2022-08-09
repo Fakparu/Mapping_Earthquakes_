@@ -7,6 +7,8 @@ There are popup markers that will show the magnitude of the earthquake and locat
 
 ![Screenshot 1](https://user-images.githubusercontent.com/105121697/183717241-d521201b-a709-4a33-8bbf-97bbeefea4dc.png)
 
+![Screenshot_2](https://user-images.githubusercontent.com/105121697/183724056-47e3de4e-eed3-4785-9bf0-162362fc405f.png)
+
 ![Screenshot 2](https://user-images.githubusercontent.com/105121697/183717349-c602b85c-e690-45fd-81a4-206f3d86b937.png)
 
 ![Screenshot 3](https://user-images.githubusercontent.com/105121697/183717485-96e573a8-5cfe-445a-b29d-0b600e9412ad.png)
